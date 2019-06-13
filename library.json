@@ -1,4 +1,5 @@
-"name": "Dh11Sensor",
+{
+  "name": "Dh11Sensor",
   "keywords": "arduino, sensor, ardusensorplatform framework",
   "description": "Dht11 sensor components for ardusensorplatform framework",
   "repository":
@@ -36,3 +37,4 @@
   "version": "1.2.0",
   "frameworks": "arduino",
   "platforms": "*"
+}

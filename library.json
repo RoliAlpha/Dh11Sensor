@@ -1,0 +1,32 @@
+"name": "Dh11Sensor",
+  "keywords": "arduino, sensor, ardusensorplatform framework",
+  "description": "Dht11 sensor components for ardusensorplatform framework",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/RoliAlpha/Dh11Sensor.git"
+  },
+  "authors": 
+  [
+    {
+      "name": "RoliAlpha",
+      "email": "652107085@qq.com",
+      "url": "http://www.milesburton.com",
+      "maintainer": true
+    },
+    {
+      "name": "zhengwei",
+      "email": "652107085@qq.com"
+    },
+    {
+      "name": "wuqiqi",
+      "email": "652107085@qq.com"
+    },
+    {
+      "name": "wangyuxing",
+      "email": "652107085@qq.com"
+    }
+  ],
+  "version": "1.2.0",
+  "frameworks": "arduino",
+  "platforms": "*"
